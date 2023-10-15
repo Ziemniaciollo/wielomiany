@@ -10,7 +10,6 @@ double a;
 
 int dzialanie;
 
-
 void input()
 {
     cout<<"Stopien pierwszego wielomianu: "<<endl;
