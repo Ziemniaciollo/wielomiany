@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "D:/programowanie/kody/wielomiany"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp",
+			"demos.C": "cpp"
+		}
+	}
+}
